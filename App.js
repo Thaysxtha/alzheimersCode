@@ -11,6 +11,7 @@ import Frame5 from "./sreens/Frame5.js";
 import Frame6 from "./sreens/Frame6.js";
 import Frame7 from "./sreens/Frame7.js";
 
+//teste
 const Stack = createNativeStackNavigator();
 
 const App = () => {
