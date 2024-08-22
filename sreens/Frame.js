@@ -6,11 +6,11 @@ const Frame = () => {
   const navigation = useNavigation();
 
   const handleNavigationParaLogin = () => {
-    navigation.navigate('Frame1');
+    navigation.navigate('Frame');
   };
 
   const handleNavigationParaCadastro = () => {
-    navigation.navigate('Frame3');
+    navigation.navigate('Frame2');
   };
   
   
